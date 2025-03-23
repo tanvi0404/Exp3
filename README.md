@@ -61,5 +61,5 @@ Open index.html in a browser to see the output.
 ##📜 License This project is licensed under MIT License.
 
 👥 Team & Contributors 
-• Pulkit Bajaj 
-• Tanvi Thakur
+. TANVI THAKUR
+. PULKIT BAJAJ
